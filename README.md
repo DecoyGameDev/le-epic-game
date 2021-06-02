@@ -4,8 +4,8 @@ If you know nothing about Python. All you need to do is have
 Python 3 installed. Then run the .py. It will run the game
 inside a command prompt window. (I think it works on Mac never checked)
 
-#Episode 1: "Do you want to play a game?" Is released! 
-##(https://github.com/DecoyGameDev/le-epic-game/releases/tag/v1)
+# Episode 1: "Do you want to play a game?" Is released! 
+(https://github.com/DecoyGameDev/le-epic-game/releases/tag/v1)
 
 
 # BEWARE. I AM NOT GOOD AT COMMITING, YOU MIGHT NEVER SEE THIS AGAIN.
