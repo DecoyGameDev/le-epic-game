@@ -14,3 +14,6 @@ https://github.com/DecoyGameDev/le-epic-game/releases/tag/v2
 
 # Episode 3: "The Bomb" !won tou sI
 https://github.com/DecoyGameDev/le-epic-game/releases/tag/3
+
+# Episode 5: "2000" Is out now!
+https://github.com/DecoyGameDev/le-epic-game/releases/tag/5
