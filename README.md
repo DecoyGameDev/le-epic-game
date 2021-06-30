@@ -6,7 +6,9 @@ inside a command prompt window. (I think it works on Mac never checked)
 
 # Universal Updates
 Episode 5: The source code is too large D:
-Sorry that I can't upload it.
+Sorry that I can't upload it. You are free
+to decompile the game however, with a clickteam
+fusion decompiler.
 
 # Episode 1: "Do you want to play a game?" Is released! 
 (https://github.com/DecoyGameDev/le-epic-game/releases/tag/v1)
