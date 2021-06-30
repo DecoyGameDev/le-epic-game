@@ -11,3 +11,6 @@ inside a command prompt window. (I think it works on Mac never checked)
 
 # Episode 2: "Potato Village' Is out now!
 https://github.com/DecoyGameDev/le-epic-game/releases/tag/v2
+
+# Episode 3: "The Bomb" !won tou sI
+https://github.com/DecoyGameDev/le-epic-game/releases/tag/3
