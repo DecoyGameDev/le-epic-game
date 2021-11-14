@@ -1,4 +1,4 @@
-# this is le-epic-game YOU NEED PYTHON 3 And Oracle Java TO RUN
+# this is le-epic-game YOU NEED PYTHON 3 FOR EPISODE 1
 In this repisotry you will find my "attempt" to make a game.
 If you know nothing about Python. All you need to do is have
 Python 3 installed. Then run the .py. It will run the game
@@ -12,8 +12,6 @@ fusion decompiler.
 
 # Episode 1: "Do you want to play a game?" Is released! 
 (https://github.com/DecoyGameDev/le-epic-game/releases/tag/v1)
-
-# Episode 2 Update: Switching to Java!
 
 # Episode 2: "Potato Village' Is out now!
 https://github.com/DecoyGameDev/le-epic-game/releases/tag/v2
@@ -29,3 +27,4 @@ https://github.com/DecoyGameDev/le-epic-game/releases/tag/5
 https://decoygamedev.itch.io/walls
 
 # Episode 7: Is out my itch!
+https://decoygamedev.itch.io/leg-7-ending
