@@ -23,8 +23,7 @@ https://github.com/DecoyGameDev/le-epic-game/releases/tag/3
 https://github.com/DecoyGameDev/le-epic-game/releases/tag/5
 
 # Episode 6: "Walls" Is out now!
-
-https://decoygamedev.itch.io/walls
+Walls is now off of Itch.io
 
 # Episode 7: Is out my itch!
 https://decoygamedev.itch.io/leg-7-ending
