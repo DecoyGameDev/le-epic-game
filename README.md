@@ -28,3 +28,6 @@ https://decoygamedev.itch.io/walls
 
 # Episode 7: Is out my itch!
 https://decoygamedev.itch.io/leg-7-ending
+
+# Le Epic Adventure V Last. Whats coming next for Le Epic Adventure?
+Added onto the main github rep. Leg 8 Confirmed?
