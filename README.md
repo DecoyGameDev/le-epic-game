@@ -28,5 +28,6 @@ Walls is now off of Itch.io
 # Episode 7: Is out my itch!
 https://decoygamedev.itch.io/leg-7-ending
 
-# Le Epic Adventure V Last. Whats coming next for Le Epic Adventure?
-Added onto the main github rep. Leg 8 Confirmed?
+# Episode 8: Now out on itch and source code on release
+https://decoygamedev.itch.io/leg-8
+Soundtrack and .mfa are seprate releases.
